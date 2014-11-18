@@ -203,6 +203,7 @@
                         <exclude>**/*.md</exclude>
                         <exclude>**/LICENSE</exclude>
                         <exclude>.gitignore</exclude>
+                        <exclude>.idea/</exclude>
                     </excludes>
                 </configuration>
                 <executions>
